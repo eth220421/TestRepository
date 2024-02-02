@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          sub 브랜치
+          test sub branch
         </a>
       </header>
     </div>
