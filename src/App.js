@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          push 테스트
+          리액트 배우기
         </a>
       </header>
     </div>
