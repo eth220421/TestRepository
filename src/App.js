@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          리액트 배우기
+          sub 브랜치 생성
         </a>
       </header>
     </div>
